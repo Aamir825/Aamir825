@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Aamir825
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html5 Css JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Muhammad Aamir (@Aamir825)  
+- 🌐 Web Developer | Learning and building with **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**, **Firebase**, and more.  
+- 💼 Open to collaboration and new opportunities.  
+- 📫 Reach me at: [Your Contact Info or Placeholder]  
 
 <!---
 Aamir825/Aamir825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
