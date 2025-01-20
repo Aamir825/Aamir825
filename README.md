@@ -48,22 +48,7 @@
 
 ---
 
----
 
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40">
-    <circle cx="10" cy="20" r="8" fill="#4caf50" />
-    <circle cx="30" cy="20" r="8" fill="#4caf50" />
-    <circle cx="50" cy="20" r="8" fill="#4caf50" />
-    <circle cx="70" cy="20" r="8" fill="#4caf50" />
-    <circle cx="90" cy="20" r="8" fill="#4caf50" />
-    <circle cx="110" cy="20" r="8" fill="#4caf50" />
-    <circle cx="130" cy="20" r="8" fill="#4caf50" />
-    <circle cx="150" cy="20" r="8" fill="#4caf50" />
-    <circle cx="170" cy="20" r="8" fill="#4caf50" />
-    <circle cx="190" cy="20" r="8" fill="#4caf50" />
-  </svg>
-</div>
 
 
 
