@@ -1,10 +1,12 @@
-# Hi 👋, I'm Muhammad Aamir
+<div align="center">
+<h1>Hi 👋, I'm Muhammad Aamir</h1>
 
-### Passionate about building modern, scalable, and interactive web applications.
+<h2>Passionate about building modern, scalable, and interactive web applications.</h2>
+</div>
 
 ---
 
-### 🔄 About Me
+### 🔍 About Me
 - **🔄 Currently Working On**: [Loan Management System](#)
 - **✨ Currently Learning**: React, Firebase
 - **🙌 Open to Collaborate**: Open-source projects in React
@@ -37,6 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
+  <img src="https://mui.com/static/logo.png" alt="Material-UI" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
@@ -45,8 +48,23 @@
 
 ---
 
-### 📊 GitHub Stats
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aamir0825&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40">
+    <circle cx="10" cy="20" r="8" fill="#4caf50" />
+    <circle cx="30" cy="20" r="8" fill="#4caf50" />
+    <circle cx="50" cy="20" r="8" fill="#4caf50" />
+    <circle cx="70" cy="20" r="8" fill="#4caf50" />
+    <circle cx="90" cy="20" r="8" fill="#4caf50" />
+    <circle cx="110" cy="20" r="8" fill="#4caf50" />
+    <circle cx="130" cy="20" r="8" fill="#4caf50" />
+    <circle cx="150" cy="20" r="8" fill="#4caf50" />
+    <circle cx="170" cy="20" r="8" fill="#4caf50" />
+    <circle cx="190" cy="20" r="8" fill="#4caf50" />
+  </svg>
 </div>
+
+
+
 
