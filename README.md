@@ -8,13 +8,13 @@
 
 ### 🔍 About Me
 - **🔄 Currently Working On**: [Loan Management System](#)
-- **✨ Currently Learning**: React, Firebase
+- **✨ Currently Learning**: Frontend Technologies
 - **🙌 Open to Collaborate**: Open-source projects in React
 - **🤞 Looking for Help With**: Building Scalable Applications
-- **✍️ Ask Me About**: React, Tailwind CSS, Material-UI (MUI), ShadCN
+- **✍️ Ask Me About**: React, Tailwind CSS, Material-UI (MUI), ShadCN, Firebase
 - **📧 Contact Me**: [Email](mailto:sk0939062@gmail.com)
 - **🌎 Portfolio**: [My Portfolio](https://aamirportfolio.vercel.app/)
-- **📖 Know My Journey**: [My Journey](https://aamirportfolio.vercel.app/journey)
+- **📖 Know My Journey**: [My Journey](https://aamirportfolio.vercel.app/)
 
 ---
 
